@@ -45,8 +45,7 @@
 - Nepali, English, Hindi
 
 ## Certifications
-- Certificate of course on 'Artificial Intelligence and Law'
-- [Certificate link](https://credsverse.com/credentials/a6431001-3db1-4997-a54f-a0953373fcef?recipient=true)
+- Certificate of course on 'Artificial Intelligence and Law' [Certificate link](https://credsverse.com/credentials/a6431001-3db1-4997-a54f-a0953373fcef?recipient=true)
 
 ## Publication
 **STATUS OF PATIENT-DOCTOR COMMUNICATION IN A NEPALI HOSPITAL**  
