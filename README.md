@@ -9,6 +9,7 @@
 - **Email:** sujannepal11111@gmail.com
 - **LinkedIn:** [Sujan Nepal](https://www.linkedin.com/in/sujan-nepal-879a09133/)
 - **GitHub:** [SujanNepal1234567](https://github.com/SujanNepal1)
+- **Leetcode:** [sujannepal11111](https://leetcode.com/u/sujannepal11111/)
 
 ## About Me
 “I am a problem solver and a team player.”
