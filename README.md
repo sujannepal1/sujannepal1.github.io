@@ -22,7 +22,7 @@
 **Backend Developer @ Sarphu Labs (_December 2024 - Present_)**
 - Made Gym Management software.
 
-**Junior Python Developer @ Vanilla Transtechnor (_April 2023 - Present_)**
+**Junior Python Developer @ Vanilla Transtechnor (_April 2023 - _November 2024)**
 - Building a fintech solution for Merchant Trade Asia’s banking system using Python.
 
 **Web Developer Intern @ BIZBAZAR Limited (_September 2021 - October 2021_)**
