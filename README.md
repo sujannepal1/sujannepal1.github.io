@@ -15,11 +15,15 @@
 “I am a problem solver and a team player.”
 
 ## Education
+- **Master of Technology in AI** | School of Engineering, Kathmandu University (December 2025 - Present)
 - **B.E., Computer Engineering** | School of Engineering, Kathmandu University (_August 2018 - August 2023_)
 - **High School Diploma, Physics** | St. Xavier’s College, Maitighar (_July 2015 - June 2017_)
 
 ## Work Experience
-**Backend Developer @ Sarphu Labs (_December 2024 - Present_)**
+**Teaching Assistant @ Department of Computer Science and Engineering (October 2025 - Present)**
+- Made Gym Management software.
+
+**Backend Developer @ Sarphu Labs (_December 2024 - September 2025)**
 - Made Gym Management software.
 
 **Junior Python Developer @ Vanilla Transtechnor (_April 2023 - _November 2024)**
