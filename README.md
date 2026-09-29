@@ -21,7 +21,7 @@
 
 ## Work Experience
 **Teaching Assistant @ Department of Computer Science and Engineering (October 2025 - Present)**
-- Made Gym Management software.
+- Help undergrad students in programming and projects.
 
 **Backend Developer @ Sarphu Labs (_December 2024 - September 2025)**
 - Made Gym Management software.
