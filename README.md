@@ -1,4 +1,4 @@
-# sujannepal1-github.io
+# Sujan Nepal
 
 # Software Developer
 
@@ -16,30 +16,30 @@
 
 ## Education
 - **Master of Technology in AI** | School of Engineering, Kathmandu University (December 2025 - Present)
-- **B.E., Computer Engineering** | School of Engineering, Kathmandu University (_August 2018 - August 2023_)
-- **High School Diploma, Physics** | St. Xavier’s College, Maitighar (_July 2015 - June 2017_)
+- **B.E., Computer Engineering** | School of Engineering, Kathmandu University (August 2018 - August 2023_)
+- **High School Diploma, Physics** | St. Xavier’s College, Maitighar (July 2015 - June 2017)
 
 ## Work Experience
 **Teaching Assistant @ Department of Computer Science and Engineering (October 2025 - Present)**
-- Help undergrad students in programming and projects.
+- Helped undergrad students with programming and projects.
 
-**Backend Developer @ Sarphu Labs (_December 2024 - September 2025)**
+**Backend Developer @ Sarphu Labs (December 2024 - September 2025)**
 - Made Gym Management software.
 
-**Junior Python Developer @ Vanilla Transtechnor (_April 2023 - _November 2024)**
+**Junior Python Developer @ Vanilla Transtechnor (April 2023 - November 2024)**
 - Building a fintech solution for Merchant Trade Asia’s banking system using Python.
 
-**Web Developer Intern @ BIZBAZAR Limited (_September 2021 - October 2021_)**
+**Web Developer Intern @ BIZBAZAR Limited (September 2021 - October 2021)**
 - Worked on building e-commerce platforms using HTML, PHP, JS, and CSS.
 
-**Co-organizer @ TEDxKathmanduUniversity (_September 2018 - August 2021_)**
+**Co-organizer @ TEDxKathmanduUniversity (September 2018 - August 2021)**
 - Organized a TEDx event under the banner of TEDxKathmanduUniversity.
   - [Event Link](https://www.ted.com/tedx/events/47594)
 
-**Curator @ TEDxDurbarMarg (_September 2018 - August 2021_)**
+**Curator @ TEDxDurbarMarg (September 2018 - August 2021)**
 - Organized and hosted events, designed scripts, and managed teams.
 
-**Editor @ Kathmandu University Journal Team (_October 2020 - April 2021_)**
+**Editor @ Kathmandu University Journal Team (October 2020 - April 2021)**
 - Reviewed and published journal articles.
 
 ## Skills
