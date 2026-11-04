@@ -1,5 +1,5 @@
 title: Sujan Nepal
-#logo : 
-#
-# show_download: true
+logo: /assets/img/profile.jpg
+description: Software Developer & MTech AI Researcher
+show_download: false
 theme: jekyll-theme-minimal
